@@ -27,3 +27,12 @@ I am Dipak Pakhale, Full Stack Developer in .Net and Angular.
 - 🧑‍⚕️Health, 🧊 Logistics, 💰 Finance, 🛒 Ecommerce, 👷 Real Estate, 🩸 Insurance, ⚙️ CRM, 🏃 Healthy Life, 📒 Education, 🕸️ SAAS product
 
 📝 Write to us to discuss your project. We offer a free consultation service and recommend technologies for your project upon ☎ Call or 💬 Invitation.
+
+**We can connect on Social Media**
+
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pakhaledipak)
+[![text](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pakhale.dipak95@gmail.com)
+
+
+
+
