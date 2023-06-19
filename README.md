@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I am Dipak Pakhale, Full Stack Developer in .Net and Angular.
 
