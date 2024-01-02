@@ -11,10 +11,10 @@ With a strong background in full stack development, specializing in .NET and Ang
 - MVC, MVVM, CQRS, Microservice, Monolithic, N-Tier Architechture
 
 🧑‍💻**Backend Technologies :**
-- C#, Asp.Net, .Net Framework, .Net Core 3.1/5.0/6.0/7.0, MVC, WebAPI, RestAPI, Web Service (SOAP)
+- C#, Asp.Net, .Net Framework, .Net Core 3.1/5.0/6.0/7.0, MVC, WebAPI, RestAPI, Web Service (SOAP), Node.Js
 
 🧑‍💻 **Front-end technologies :**
-- HTML/HTML5, CSS/CSS3, Bootstrap, Javascript, jQuery, Angular js, Angular 2+, Ajax, Vue.js
+- HTML/HTML5, CSS/CSS3, Bootstrap, Javascript, jQuery, Angular js, Angular 2+, Ajax, Vue.js, ReactJs, Next.Js
 
 🛅 **Databases :**
 - MSSQL, MySQL, Firebase, MongoDB, SQLite
