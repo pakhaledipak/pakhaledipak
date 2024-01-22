@@ -2,16 +2,16 @@
 
 I am Dipak Pakhale, Full Stack Developer in .Net and Angular.
 
-With a strong background in full stack development, specializing in .NET and Angular technologies, I am passionate about leveraging my skills to drive business success. From designing robust backend systems to crafting immersive user interfaces, I strive to create seamless experiences that exceed expectations.
+With a strong background in full-stack development, specializing in .NET and Angular technologies, I am passionate about leveraging my skills to drive business success. From designing robust backend systems to crafting immersive user interfaces, I strive to create seamless experiences that exceed expectations.
 
 🌈 **Services :**  
-- Web Development, Mobile Applicatiokn Development, Website Design, Quality Assurance with manual and Automation (Unit Test), DevOps (Azure, AWS)
+- Web Development, Mobile Application Development, Website Design, Quality Assurance with manual and Automation (Unit Test), DevOps (Azure, AWS)
 
 🧱 **Architechture :**
 - MVC, MVVM, CQRS, Microservice, Monolithic, N-Tier Architechture
 
 🧑‍💻**Backend Technologies :**
-- C#, Asp.Net, .Net Framework, .Net Core 3.1/5.0/6.0/7.0, MVC, WebAPI, RestAPI, Web Service (SOAP), Node.Js
+- C#, Asp.Net, .Net Framework, .Net Core 3.1/5.0/6.0/7.0/8.0, MVC, Blazor, WebAPI, RestAPI, Web Service (SOAP), Node.Js, Azure Functions, Azure Services
 
 🧑‍💻 **Front-end technologies :**
 - HTML/HTML5, CSS/CSS3, Bootstrap, Javascript, jQuery, Angular js, Angular 2+, Ajax, Vue.js, ReactJs, Next.Js
@@ -20,7 +20,7 @@ With a strong background in full stack development, specializing in .NET and Ang
 - MSSQL, MySQL, Firebase, MongoDB, SQLite
 
 🏗️ **ORMs :**
-- Entity framework, ADO.NET, Drapper
+- Entity Framework, ADO.NET, Dapper
 
 🗂️**Project Version Controlling Tools :**
 - Git, SVN, BitBucket, TFS
