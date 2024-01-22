@@ -35,6 +35,8 @@ With a strong background in full stack development, specializing in .NET and Ang
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pakhaledipak)
 [![text](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pakhale.dipak95@gmail.com)
 
+**𝐂𝐨𝐧𝐬𝐢𝐬𝐭𝐞𝐧𝐜𝐞 | 𝐂𝐨𝐦𝐦𝐢𝐭𝐭𝐞𝐝 | 𝐐𝐮𝐚𝐥𝐢𝐭𝐲**
+
 
 
 
