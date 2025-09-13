@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I am Dipak Pakhale, Full Stack Developer in .Net and Angular.
+I am Dipak Pakhale, Full Stack Developer in .Net, React Js and Angular. 
 
-With a strong background in full-stack development, specializing in .NET and Angular technologies, I am passionate about leveraging my skills to drive business success. From designing robust backend systems to crafting immersive user interfaces, I strive to create seamless experiences that exceed expectations.
+With a strong background in full-stack development, specializing in .NET, React.js and Angular technologies, I am passionate about leveraging my skills to drive business success. From designing robust backend systems to crafting immersive user interfaces, I strive to create seamless experiences that exceed expectations.
 
 🌈 **Services :**  
 - Web Development, Mobile Application Development, Website Design, Quality Assurance with manual and Automation (Unit Test), DevOps (Azure, AWS)
